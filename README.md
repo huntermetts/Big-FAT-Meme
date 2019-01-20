@@ -1,4 +1,5 @@
-# Dicee (random dice generator app made in Swift)
+# Big FAT Meme (Random Meme Generator)
 
-For this project I used swift to create an app that randomly generates dice faces when the "ROLL" button is pressed.
-![alt text](dicee.gif)
+This app (build in swift) will display up to 11 random meme pictures.
+Happy meme-ing!
+![alt text](fatMeme.gif)
